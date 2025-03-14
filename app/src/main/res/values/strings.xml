@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Name">Name</string>
+    <string name="Button">Button</string>
+    <string name="enter_name">enter name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_how_you_doing">hi how you doing</string>
+    <string name="enter_url">enter url</string>
+    <string name="go_to_url">go to url</string>
+
+</resources>
